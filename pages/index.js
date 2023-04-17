@@ -13,7 +13,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Learn CSE in HYU <Link href="/posts/first-post">this page!</Link>
+          Read <Link href="/posts/first-post">this page!</Link>
         </h1>
 
         <p className={styles.description}>
